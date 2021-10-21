@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Medium.eot');
+    src: url('Roboto-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Roboto-Medium.woff2') format('woff2'),
+        url('Roboto-Medium.woff') format('woff'),
+        url('Roboto-Medium.ttf') format('truetype'),
+        url('Roboto-Medium.svg#Roboto-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+body{
+    background-color:#013146;
+    margin:  0px;
+    margin-top: 0px; 
+    width: auto;
+    height: 2000px;
+}
+#logo{
+    height:57px;
+    margin-top: 0px; 
+    font-family: 'Roboto';
+    letter-spacing: 4px;
+    color:#75E6DA;
+    text-decoration: none; 
+    background-color: none;
+}
+#spacing{
+    margin-top: 0px;
+    height:0px;
+}
+.navbar{
+    background-color:#05445E
+}
